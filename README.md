@@ -325,3 +325,64 @@ No time de desenvolvimento deste projeto, atuei na implementação de funcionali
   - Colaboração - Nesse projeto desenvolvi uma dinâmica de trabalho em dupla onde um colega da equipe ficava responsável pelo front-end da funcionalidade enquanto eu fazia o back-end. Essa colaboração gerou um desenvolvimento ágil e eficiente possibilitando que várias tarefas fossem concluídas com sucesso aproveitando as melhores habilidades de cada um.
 
   - Proatividade - Houve um atraso devido a falta de entregas por outros membros da equipe, então após concluir as funcionalidades de controle de progresso eu me responsabilizei por novas tarefas, ajudando a concluir também o dashboard da plataforma.
+
+### Sexto Semestre (2024-2)
+
+A empresa parceira neste projeto foi a Dom Rock, especializada em análise de dados e inteligência artificial. Utilizando Big Data e técnicas de machine learning, oferece soluções que ajudam grandes corporações a otimizar processos e tomar decisões mais informadas. 
+
+A Dom Rock possuía uma extensa base de dados com comentários de consumidores sobre produtos variados, mas enfrentava dificuldades em analisar e extrair informações úteis de forma rápida e eficiente. O processo manual de identificação de padrões, sentimentos e insights era demorado, o que dificultava a adaptação de estratégias de vendas e melhorias nos produtos com base nas percepções dos consumidores.
+
+Para resolver esse problema, desenvolvemos um chatbot baseado em IA generativa capaz de automatizar a busca e análise dos comentários dos consumidores através da técnica de RAG (Retrieval Augmented Generation). A ferramenta fornece respostas em linguagem natural e permite que os representantes da marca acessem rapidamente as opiniões dos clientes, identifiquem tendências e obtenham insights valiosos. Com isso, tornou-se possível melhorar os produtos e otimizar estratégias de vendas de maneira mais ágil e eficiente.
+
+* [Link para o repositório do API 6º semestre](https://github.com/ciscoquirino/api6domrock)
+
+### Tecnologias Utilizadas
+
+#### Reuniões
+   
+  - WhatsApp - Comunicação rápida com os integrantes, avisos;
+  - Discord - Chamadas em grupo e compartilhamento de tela.
+ 
+#### Banco de Dados
+ 
+   - ChromaDB - Banco de Dados Vetorial para persistência de embeddings.
+
+#### Back-end  
+  
+  - Python - Linguagem de programação;
+  - Jupyter Notebook - Ambiente interativo para análise de dados e prototipagem em Python, permitindo execução de código e visualização de resultados;
+  - LangChain - Biblioteca para integrar modelos de linguagem avançados em aplicativos, facilitando o processamento de dados e a interação com IA. 
+  
+#### Front-end 
+ 
+  - Vue.js - Framework JavaScript para criação de interfaces de usuário.
+
+#### Outros
+ 
+  - Github - Repositório do projeto para controle de versão;
+  - Jira - Ferramenta de gestão de projetos ágeis, utilizada para rastrear tarefas e o progresso do desenvolvimento de software;
+  - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
+  - GeminiAI - Plataforma de inteligência artificial generativa, utilizada para processar linguagem natural e criar respostas automatizadas baseadas em dados.
+
+  
+### Contribuições Pessoais
+
+Minhas contribuições neste projeto envolveram o desenvolvimento do back-end da solução. Utilizei Python e Jupyter Notebook para realizar a chunknização da base de dados original, que consistia em um arquivo CSV previamente tratado com técnicas de processamento de linguagem natural (PLN). Após a segmentação dos dados em trechos menores, gerei os embeddings utilizando a biblioteca Sentence-Transformers e configurei o banco de dados vetorial com o ChromaDB para armazená-los de forma eficiente.
+Em seguida, integrei a API do modelo de linguagem Gemini, configurando as chamadas necessárias para realizar buscas semânticas e gerar respostas em linguagem natural. Essa etapa permitiu ao chatbot compreender as perguntas dos usuários e retornar informações relevantes com base no conteúdo previamente embutido, viabilizando uma análise automatizada e inteligente dos comentários dos consumidores.
+
+### Hard Skills
+
+  - Python - Uso com autonomia
+  - Jupyter Notebook - Uso com autonomia
+  - ChromaDB - Uso com consulta
+  - LangChain - Uso com consulta
+  - Vue.js - Uso com consulta
+
+
+### Soft Skills
+
+  - Autonomia - Aprendi novas tecnologias como RAG, PLN e o uso de LLMs através da leitura de tutoriais e documentações. 
+
+  - Proatividade - Nenhum dos membros da equipe conhecia as tecnologias que seriam necessárias mas com muita pesquisa e prática eu consegui já na primeira sprint entregar um pipeline de pergunta e resposta com RAG, que foi sendo aprimorado ao longo das próximas sprints.
+
+  - Pensamento Crítico - Como estávamos lidando com LLMs pré-treinadas, foi preciso pensamento crítico para avaliar as respostas dadas e fazer ajustes no código para melhorar a compreensão do contexto pelo chatbot e evitar alucinações.
