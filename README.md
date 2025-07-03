@@ -22,10 +22,35 @@ Este repositório reúne os projetos integradores que desenvolvi na graduação 
 ## Principais Conhecimentos
 
 ### Tecnologias 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)     
 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) <br>
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br>
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <br>
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)     
+
+<span id="projetos">
 
 ## Meus Projetos
+
+<p align="center">
+  <a href="#1"> 1º semestre</a> •
+  <a href="#2"> 2º semestre</a> •
+  <a href="#3"> 3º semestre</a> •
+  <a href="#4"> 4º semestre</a> •
+  <a href="#5"> 5º semestre</a> •
+  <a href="#6"> 6º semestre</a>
+</p>
+
+<span id="1">
 
 ### Primeiro Semestre (2021-1)
 
@@ -77,6 +102,9 @@ Neste projeto atuei como Scrum Master, facilitando a implementação de metodolo
   - Flexibilidade - Tive que ser flexível pois ao longo do projeto 3 integrantes deixaram a equipe, então em diversos momentos eu precisei reorganizar as tarefas e ajudar os desenvolvedores a atingir a solução proposta.
   
   - Colaboração - As tecnologias eram novas para todos da equipe, então cada descoberta e aprendizado eu compartilhava com o grupo e ajudei colegas que tiveram mais dificuldades.
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
+<span id="2">
 
 ### Segundo Semestre (2021-2)
 
@@ -133,6 +161,9 @@ Atuei como desenvolvedor full-stack neste projeto, sendo responsável principalm
   
   - Proatividade - No início do projeto assumi a responsabilidade pela funcionalidade "quadro de presença", que era considerada pelo cliente a parte central da aplicação. 
   
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
+<span id="3">
+
 ### Terceiro Semestre (2022-1)
 
 A proposta deste projeto surgiu da necessidade identificada pela Tecsus, uma startup voltada à sustentabilidade, de oferecer uma solução mais eficiente para o controle do consumo de água e energia em empresas. A ausência de uma ferramenta centralizada dificultava o acompanhamento das faturas, a análise dos dados de consumo e a geração de alertas, o que resultava em gastos excessivos e desperdício de recursos.
@@ -187,7 +218,10 @@ Neste projeto, atuei como desenvolvedor back-end, sendo responsável pela modela
   - Flexibilidade - Após um feedback do cliente na primeira sprint, identifiquei uma deficiência na estrutura de dados que causava redundância, então implementei um novo modelo de dados a partir da segunda sprint que resolveu o problema tornando o sistema mais eficiente, eliminando dados desnecessários e melhorando a usabilidade pois o usuário não precisava mais digitar inputs repetidos.
   
   - Colaboração - Atuando no back-end do projeto, estava frequentemente em contato com a equipe responsável pelo front-end para garantir a melhor usabilidade do sistema e a coerência entre os inputs dos usuários e o processamento dos dados, dado que uma das maiores dores do cliente era a inconsistência no preenchimento das informações.
-  
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
+<span id="4">
+ 
 ### Quarto Semestre (2023-2)
 
 O projeto foi desenvolvido em parceria com a Greenneat, uma empresa que atua no segmento de controle e descarte de óleo usado. A Greenneat enfrentava dificuldades na gestão manual das transações de créditos realizadas com seus parceiros, utilizando métodos pouco confiáveis como ligações telefônicas, blocos de notas e cadernetas. Esses processos geravam perda de informações, inconsistências e dificultavam o controle das operações e benefícios oferecidos aos clientes.
@@ -239,6 +273,9 @@ Neste projeto, atuei como desenvolvedor full-stack, com foco principal na implem
 
   - Criatividade - Nesse semestre o representante da empresa parceira não teve a disponibilidade para estar acompanhando todas as etapas do projeto, então precisei elaborar minha solução para o sistema de créditos baseando-me apenas no documento de requisitos e sem o feedback do cliente durante o processo.   
 
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
+<span id="5">
+
 ### Quinto Semestre (2024-1)
 
 Este projeto foi desenvolvido em parceria com a Oracle, empresa globalmente reconhecida por suas soluções em software, banco de dados e sistemas de gestão empresarial. A Oracle enfrentava dificuldades para acompanhar o progresso de seus parceiros em trilhas de aprendizado do seu programa Oracle Partner Network, uma vez que o controle era feito por meio de reuniões semanais com os parceiros, o que limitava a visibilidade dos dados e dificultava o planejamento estratégico e a tomada de decisões em tempo real.
@@ -288,6 +325,9 @@ No time de desenvolvimento deste projeto, atuei na implementação de funcionali
   - Colaboração - Nesse projeto desenvolvi uma dinâmica de trabalho em dupla onde um colega da equipe ficava responsável pelo front-end da funcionalidade enquanto eu fazia o back-end. Essa colaboração gerou um desenvolvimento ágil e eficiente possibilitando que várias tarefas fossem concluídas com sucesso aproveitando as melhores habilidades de cada um.
 
   - Proatividade - Houve um atraso devido a falta de entregas por outros membros da equipe, então após concluir as funcionalidades de controle de progresso eu me responsabilizei por novas tarefas, ajudando a concluir também o dashboard da plataforma.
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
+<span id="6">
 
 ### Sexto Semestre (2024-2)
 
@@ -344,3 +384,5 @@ Em seguida, integrei a API do modelo de linguagem Gemini, configurando as chamad
   - Proatividade - Nenhum dos membros da equipe conhecia as tecnologias que seriam necessárias mas com muita pesquisa e prática eu consegui já na primeira sprint entregar um pipeline de pergunta e resposta com RAG, que foi sendo aprimorado ao longo das próximas sprints.
 
   - Pensamento Crítico - Como estávamos lidando com LLMs pré-treinadas, foi preciso pensamento crítico para avaliar as respostas dadas e fazer ajustes no código para melhorar a compreensão do contexto pelo chatbot e evitar alucinações.
+
+<img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao menu de projetos](#projetos)
