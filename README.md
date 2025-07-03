@@ -21,20 +21,8 @@ Este repositório reúne os projetos integradores que desenvolvi na graduação 
 
 ## Principais Conhecimentos
 
-|                                                         Tecnologias                                                          | Básico | Intermediário | Avançado |
-| :--------------------------------------------------------------------------------------------------------------------------: | :----: | :-----------: | :------: |
-|          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)           |        |       ✔️       |          |
-|            ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)            |    ✔️    |              |          |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |        |       ✔️       |          |
-|   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   |      |       ✔️        |          |
-|         ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)         |      |       ✔️        |          |
-|        ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)         |    ✔️    |             |          |
-| ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  |    ✔️    |              |          |
-|            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)            |       |        ✔️       |          |
-|            ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)            |       |       ✔️        |          |
-|     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)     |       |        ✔️       |          |
-|       ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)        |   ✔️    |               |          |
-|            ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)            |       |       ✔️        |          |
+### Tecnologias 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)     
 
 
 ## Meus Projetos
@@ -50,11 +38,6 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 * [Link para o repositório do API 1º semestre](https://github.com/ciscoquirino/API-Fatec-Site-Institucional)
 
 ### Tecnologias Utilizadas
-
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
  
 #### Banco de Dados
  
@@ -83,8 +66,8 @@ Neste projeto atuei como Scrum Master, facilitando a implementação de metodolo
 ### Hard Skills
 
   - HTML5 - Uso com autonomia
-  - CSS3 - Uso com consulta
-  - PHP - Uso com consulta
+  - CSS3 - Uso com autonomia
+  - PHP - Uso com autonomia
   - MySQL - Uso com autonomia
 
 ### Soft Skills
@@ -106,11 +89,6 @@ A parceira no desenvolvimento do projeto foi a JetSoft, empresa especializada em
 * [Link para o repositório do API 2º semestre](https://github.com/ciscoquirino/api2)
 
 ### Tecnologias Utilizadas
-
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
  
 #### Banco de Dados
  
@@ -140,10 +118,10 @@ Atuei como desenvolvedor full-stack neste projeto, sendo responsável principalm
 ### Hard Skills
 
   - HTML5 - Uso com autonomia
-  - CSS3 - Uso com consulta
-  - JavaScript - Uso com consulta
+  - CSS3 - Uso com autonomia
+  - JavaScript - Uso com autonomia
   - Python - Uso com autonomia
-  - Flask - Uso com consulta
+  - Flask - Uso com autonomia
   - MySQL - Uso com autonomia
 
 
@@ -166,11 +144,6 @@ O parceiro deste projeto foi a Tecsus, especializada em soluções tecnológicas
 * [Link para o repositório do API 3º semestre](https://github.com/ciscoquirino/TecSus)
 
 ### Tecnologias Utilizadas
-
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
  
 #### Banco de Dados
  
@@ -203,10 +176,10 @@ Neste projeto, atuei como desenvolvedor back-end, sendo responsável pela modela
 ### Hard Skills
 
   - HTML5 - Uso com autonomia
-  - CSS3 - Uso com consulta
+  - CSS3 - Uso com autonomia
   - MySQL - Uso com autonomia
-  - Java - Uso com consulta
-  - Spring - Uso com consulta
+  - Java - Uso com autonomia
+  - Spring - Uso com autonomia
 
 
 ### Soft Skills
@@ -225,11 +198,6 @@ Para solucionar esse problema, a equipe desenvolveu uma aplicação web que cent
 
 ### Tecnologias Utilizadas
 
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
- 
 #### Banco de Dados
  
    - PostgreSQL - Armazenamento e manipulação de dados.
@@ -257,11 +225,11 @@ Neste projeto, atuei como desenvolvedor full-stack, com foco principal na implem
 
 ### Hard Skills
 
-  - TypeScript - Uso com consulta
+  - TypeScript - Uso com autonomia
   - Node.js - Uso com autonomia
   - PostgreSQL - Uso com autonomia
-  - React - Uso com consulta
-  - Deployment - Uso com consulta
+  - React - Uso com autonomia
+  - Deployment - Uso com autonomia
 
 ### Soft Skills
 
@@ -281,11 +249,6 @@ Como solução, a equipe desenvolveu uma aplicação mobile que centraliza as in
 
 ### Tecnologias Utilizadas
 
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Realização de reuniões com o cliente, acesso à documentação dos requisitos e compartilhamento de arquivos do grupo.
- 
 #### Banco de Dados
  
    - PostgreSQL - Armazenamento e manipulação de dados de usuários e trilhas de aprendizado;
@@ -314,10 +277,10 @@ No time de desenvolvimento deste projeto, atuei na implementação de funcionali
 
 ### Hard Skills
 
-  - TypeScript - Uso com consulta
+  - TypeScript - Uso com autonomia
   - Node.js - Uso com autonomia
   - PostgreSQL - Uso com autonomia
-  - React Native - Uso com consulta
+  - React Native - Uso com autonomia
 
 
 ### Soft Skills
@@ -337,11 +300,6 @@ Para resolver esse problema, desenvolvemos um chatbot baseado em IA generativa c
 * [Link para o repositório do API 6º semestre](https://github.com/ciscoquirino/api6domrock)
 
 ### Tecnologias Utilizadas
-
-#### Reuniões
-   
-  - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Discord - Chamadas em grupo e compartilhamento de tela.
  
 #### Banco de Dados
  
@@ -374,9 +332,9 @@ Em seguida, integrei a API do modelo de linguagem Gemini, configurando as chamad
 
   - Python - Uso com autonomia
   - Jupyter Notebook - Uso com autonomia
-  - ChromaDB - Uso com consulta
-  - LangChain - Uso com consulta
-  - Vue.js - Uso com consulta
+  - ChromaDB - Uso com autonomia
+  - LangChain - Uso com autonomia
+  - Vue.js - Uso com autonomia
 
 
 ### Soft Skills
